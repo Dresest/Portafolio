@@ -1,0 +1,11 @@
+body {
+  background: rgb(116,204,241);
+  background: linear-gradient(171deg, rgba(116,204,241,1) 0%, rgba(254,210,185,1) 80%, rgba(254,236,187,1) 100%);
+}
+
+.card-redes :hover{
+  background: gainsboro;
+ transition: transform .2s;
+
+
+}
